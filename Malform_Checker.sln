@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malform_Checker", "Test\Malform_Checker.csproj", "{12412CB2-ADA6-49ED-A9A7-F4DD06B754C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12412CB2-ADA6-49ED-A9A7-F4DD06B754C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12412CB2-ADA6-49ED-A9A7-F4DD06B754C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12412CB2-ADA6-49ED-A9A7-F4DD06B754C2}.Debug|x64.ActiveCfg = Debug|x64
+		{12412CB2-ADA6-49ED-A9A7-F4DD06B754C2}.Debug|x64.Build.0 = Debug|x64
+		{12412CB2-ADA6-49ED-A9A7-F4DD06B754C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12412CB2-ADA6-49ED-A9A7-F4DD06B754C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12412CB2-ADA6-49ED-A9A7-F4DD06B754C2}.Release|x64.ActiveCfg = Release|x64
+		{12412CB2-ADA6-49ED-A9A7-F4DD06B754C2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC17201C-28DE-4550-831B-8DF6B7371527}
+	EndGlobalSection
+EndGlobal
