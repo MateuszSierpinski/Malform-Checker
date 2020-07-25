@@ -81,7 +81,7 @@
             this.Btn_Skip_Malf_SEQ.Enabled = false;
             this.Btn_Skip_Malf_SEQ.FlatAppearance.BorderSize = 0;
             this.Btn_Skip_Malf_SEQ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn_Skip_Malf_SEQ.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.Btn_Skip_Malf_SEQ.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Bold);
             this.Btn_Skip_Malf_SEQ.ForeColor = System.Drawing.Color.White;
             this.Btn_Skip_Malf_SEQ.Location = new System.Drawing.Point(10, 320);
             this.Btn_Skip_Malf_SEQ.Name = "Btn_Skip_Malf_SEQ";
@@ -97,7 +97,7 @@
             this.BTN_Generate_Ruler.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BTN_Generate_Ruler.FlatAppearance.BorderSize = 0;
             this.BTN_Generate_Ruler.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BTN_Generate_Ruler.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.BTN_Generate_Ruler.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
             this.BTN_Generate_Ruler.ForeColor = System.Drawing.Color.White;
             this.BTN_Generate_Ruler.Location = new System.Drawing.Point(315, 36);
             this.BTN_Generate_Ruler.Name = "BTN_Generate_Ruler";
@@ -131,11 +131,11 @@
             this.Txt_Row_SEQ.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.Txt_Row_SEQ.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Txt_Row_SEQ.Enabled = false;
-            this.Txt_Row_SEQ.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Txt_Row_SEQ.Font = new System.Drawing.Font("Yu Gothic UI", 11.25F);
             this.Txt_Row_SEQ.ForeColor = System.Drawing.Color.White;
             this.Txt_Row_SEQ.Location = new System.Drawing.Point(251, 409);
             this.Txt_Row_SEQ.Name = "Txt_Row_SEQ";
-            this.Txt_Row_SEQ.Size = new System.Drawing.Size(100, 24);
+            this.Txt_Row_SEQ.Size = new System.Drawing.Size(100, 27);
             this.Txt_Row_SEQ.TabIndex = 25;
             this.Txt_Row_SEQ.Visible = false;
             this.Txt_Row_SEQ.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Txt_Row_SEQ_KeyDown);
@@ -144,11 +144,11 @@
             // 
             this.txtLineLong.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.txtLineLong.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtLineLong.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtLineLong.Font = new System.Drawing.Font("Yu Gothic UI", 12F);
             this.txtLineLong.ForeColor = System.Drawing.Color.White;
             this.txtLineLong.Location = new System.Drawing.Point(148, 100);
             this.txtLineLong.Name = "txtLineLong";
-            this.txtLineLong.Size = new System.Drawing.Size(159, 26);
+            this.txtLineLong.Size = new System.Drawing.Size(159, 29);
             this.txtLineLong.TabIndex = 21;
             this.txtLineLong.Visible = false;
             this.txtLineLong.TextChanged += new System.EventHandler(this.txtLineLong_TextChanged);
@@ -194,7 +194,7 @@
             this.Btn_Open_File_SEQ.Enabled = false;
             this.Btn_Open_File_SEQ.FlatAppearance.BorderSize = 0;
             this.Btn_Open_File_SEQ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn_Open_File_SEQ.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.Btn_Open_File_SEQ.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
             this.Btn_Open_File_SEQ.ForeColor = System.Drawing.Color.White;
             this.Btn_Open_File_SEQ.Location = new System.Drawing.Point(10, 526);
             this.Btn_Open_File_SEQ.Name = "Btn_Open_File_SEQ";
@@ -210,11 +210,11 @@
             this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(50)))), ((int)(((byte)(50)))));
             this.label5.CausesValidation = false;
-            this.label5.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.label5.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
             this.label5.ForeColor = System.Drawing.Color.White;
             this.label5.Location = new System.Drawing.Point(161, 411);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(84, 18);
+            this.label5.Size = new System.Drawing.Size(80, 20);
             this.label5.TabIndex = 26;
             this.label5.Text = "Go to row:";
             this.label5.Visible = false;
@@ -225,7 +225,7 @@
             this.Btn_Open_Log_SEQ.Enabled = false;
             this.Btn_Open_Log_SEQ.FlatAppearance.BorderSize = 0;
             this.Btn_Open_Log_SEQ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn_Open_Log_SEQ.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.Btn_Open_Log_SEQ.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
             this.Btn_Open_Log_SEQ.ForeColor = System.Drawing.Color.White;
             this.Btn_Open_Log_SEQ.Location = new System.Drawing.Point(10, 400);
             this.Btn_Open_Log_SEQ.Name = "Btn_Open_Log_SEQ";
@@ -243,7 +243,7 @@
             this.Btn_Check_Malf_SEQ.Enabled = false;
             this.Btn_Check_Malf_SEQ.FlatAppearance.BorderSize = 0;
             this.Btn_Check_Malf_SEQ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn_Check_Malf_SEQ.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.Btn_Check_Malf_SEQ.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Bold);
             this.Btn_Check_Malf_SEQ.ForeColor = System.Drawing.Color.White;
             this.Btn_Check_Malf_SEQ.Location = new System.Drawing.Point(10, 250);
             this.Btn_Check_Malf_SEQ.Name = "Btn_Check_Malf_SEQ";
@@ -267,11 +267,11 @@
             // 
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(50)))), ((int)(((byte)(50)))));
-            this.label4.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.label4.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
             this.label4.ForeColor = System.Drawing.Color.White;
             this.label4.Location = new System.Drawing.Point(14, 103);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(115, 18);
+            this.label4.Size = new System.Drawing.Size(108, 20);
             this.label4.TabIndex = 20;
             this.label4.Text = "Record Length";
             this.label4.Visible = false;
@@ -281,7 +281,7 @@
             this.Btn_CnvToTxt.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.Btn_CnvToTxt.FlatAppearance.BorderSize = 0;
             this.Btn_CnvToTxt.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn_CnvToTxt.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.Btn_CnvToTxt.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Bold);
             this.Btn_CnvToTxt.ForeColor = System.Drawing.Color.White;
             this.Btn_CnvToTxt.Location = new System.Drawing.Point(10, 180);
             this.Btn_CnvToTxt.Name = "Btn_CnvToTxt";
@@ -297,7 +297,7 @@
             this.Btn_Open_Line.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.Btn_Open_Line.FlatAppearance.BorderSize = 0;
             this.Btn_Open_Line.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn_Open_Line.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.Btn_Open_Line.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
             this.Btn_Open_Line.ForeColor = System.Drawing.Color.White;
             this.Btn_Open_Line.Location = new System.Drawing.Point(10, 5);
             this.Btn_Open_Line.Name = "Btn_Open_Line";
@@ -313,7 +313,7 @@
             this.Btn_Skip_Malf_DEL.Enabled = false;
             this.Btn_Skip_Malf_DEL.FlatAppearance.BorderSize = 0;
             this.Btn_Skip_Malf_DEL.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn_Skip_Malf_DEL.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.Btn_Skip_Malf_DEL.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Bold);
             this.Btn_Skip_Malf_DEL.ForeColor = System.Drawing.Color.White;
             this.Btn_Skip_Malf_DEL.Location = new System.Drawing.Point(10, 320);
             this.Btn_Skip_Malf_DEL.Name = "Btn_Skip_Malf_DEL";
@@ -328,7 +328,7 @@
             // 
             this.comboBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(30)))), ((int)(((byte)(30)))));
             this.comboBox2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.comboBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.comboBox2.Font = new System.Drawing.Font("Yu Gothic UI", 11.25F);
             this.comboBox2.ForeColor = System.Drawing.Color.White;
             this.comboBox2.FormattingEnabled = true;
             this.comboBox2.Items.AddRange(new object[] {
@@ -336,7 +336,7 @@
             "Yes"});
             this.comboBox2.Location = new System.Drawing.Point(141, 49);
             this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(179, 26);
+            this.comboBox2.Size = new System.Drawing.Size(179, 28);
             this.comboBox2.TabIndex = 14;
             this.comboBox2.Text = "No";
             this.comboBox2.Visible = false;
@@ -364,7 +364,7 @@
             this.Btn_Open_Delimited.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.Btn_Open_Delimited.FlatAppearance.BorderSize = 0;
             this.Btn_Open_Delimited.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn_Open_Delimited.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.Btn_Open_Delimited.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
             this.Btn_Open_Delimited.ForeColor = System.Drawing.Color.White;
             this.Btn_Open_Delimited.Location = new System.Drawing.Point(10, 5);
             this.Btn_Open_Delimited.Name = "Btn_Open_Delimited";
@@ -381,7 +381,7 @@
             this.Btn_Open_File_DEL.Enabled = false;
             this.Btn_Open_File_DEL.FlatAppearance.BorderSize = 0;
             this.Btn_Open_File_DEL.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn_Open_File_DEL.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.Btn_Open_File_DEL.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Bold);
             this.Btn_Open_File_DEL.ForeColor = System.Drawing.Color.White;
             this.Btn_Open_File_DEL.Location = new System.Drawing.Point(10, 526);
             this.Btn_Open_File_DEL.Name = "Btn_Open_File_DEL";
@@ -398,7 +398,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.textBox1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F);
             this.textBox1.ForeColor = System.Drawing.Color.White;
             this.textBox1.Location = new System.Drawing.Point(66, 6);
             this.textBox1.Name = "textBox1";
@@ -412,11 +412,11 @@
             this.textBox2.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.textBox2.Enabled = false;
-            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox2.Font = new System.Drawing.Font("Yu Gothic UI", 11.25F);
             this.textBox2.ForeColor = System.Drawing.Color.White;
             this.textBox2.Location = new System.Drawing.Point(251, 409);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 24);
+            this.textBox2.Size = new System.Drawing.Size(100, 27);
             this.textBox2.TabIndex = 11;
             this.textBox2.Visible = false;
             this.textBox2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox2_KeyDown);
@@ -427,7 +427,7 @@
             this.Btn_Open_Log_DEL.Enabled = false;
             this.Btn_Open_Log_DEL.FlatAppearance.BorderSize = 0;
             this.Btn_Open_Log_DEL.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn_Open_Log_DEL.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.Btn_Open_Log_DEL.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Bold);
             this.Btn_Open_Log_DEL.ForeColor = System.Drawing.Color.White;
             this.Btn_Open_Log_DEL.Location = new System.Drawing.Point(10, 400);
             this.Btn_Open_Log_DEL.Name = "Btn_Open_Log_DEL";
@@ -443,11 +443,11 @@
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(50)))), ((int)(((byte)(50)))));
             this.label2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.label2.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.label2.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(10, 51);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(67, 18);
+            this.label2.Size = new System.Drawing.Size(63, 20);
             this.label2.TabIndex = 13;
             this.label2.Text = "Header:";
             this.label2.Visible = false;
@@ -457,11 +457,11 @@
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(50)))), ((int)(((byte)(50)))));
             this.label3.CausesValidation = false;
-            this.label3.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.label3.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(161, 411);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(84, 18);
+            this.label3.Size = new System.Drawing.Size(80, 20);
             this.label3.TabIndex = 10;
             this.label3.Text = "Go to row:";
             this.label3.Visible = false;
@@ -471,7 +471,7 @@
             this.Btn_CnvToTbl.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.Btn_CnvToTbl.FlatAppearance.BorderSize = 0;
             this.Btn_CnvToTbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn_CnvToTbl.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.Btn_CnvToTbl.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Bold);
             this.Btn_CnvToTbl.ForeColor = System.Drawing.Color.White;
             this.Btn_CnvToTbl.Location = new System.Drawing.Point(10, 180);
             this.Btn_CnvToTbl.Name = "Btn_CnvToTbl";
@@ -489,7 +489,7 @@
             this.Btn_Check_Malf_DEL.Enabled = false;
             this.Btn_Check_Malf_DEL.FlatAppearance.BorderSize = 0;
             this.Btn_Check_Malf_DEL.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn_Check_Malf_DEL.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.Btn_Check_Malf_DEL.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Bold);
             this.Btn_Check_Malf_DEL.ForeColor = System.Drawing.Color.White;
             this.Btn_Check_Malf_DEL.Location = new System.Drawing.Point(10, 250);
             this.Btn_Check_Malf_DEL.Name = "Btn_Check_Malf_DEL";
@@ -506,11 +506,11 @@
             this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(50)))), ((int)(((byte)(50)))));
             this.label1.CausesValidation = false;
             this.label1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.label1.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold);
+            this.label1.Font = new System.Drawing.Font("Yu Gothic UI", 11F, System.Drawing.FontStyle.Bold);
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(10, 97);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(123, 18);
+            this.label1.Size = new System.Drawing.Size(117, 20);
             this.label1.TabIndex = 8;
             this.label1.Text = "Field Separator:";
             this.label1.Visible = false;
@@ -519,7 +519,7 @@
             // 
             this.comboBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(30)))), ((int)(((byte)(30)))));
             this.comboBox1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.comboBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.comboBox1.Font = new System.Drawing.Font("Yu Gothic UI", 11.25F);
             this.comboBox1.ForeColor = System.Drawing.Color.White;
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
@@ -533,7 +533,7 @@
             "Tilde (  ~  )"});
             this.comboBox1.Location = new System.Drawing.Point(141, 94);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(179, 26);
+            this.comboBox1.Size = new System.Drawing.Size(179, 28);
             this.comboBox1.TabIndex = 7;
             this.comboBox1.Text = "Defult set up is (TAB)";
             this.comboBox1.Visible = false;
@@ -613,7 +613,7 @@
             // 
             // Delimited_Label
             // 
-            this.Delimited_Label.Font = new System.Drawing.Font("Century Gothic", 12.75F, System.Drawing.FontStyle.Bold);
+            this.Delimited_Label.Font = new System.Drawing.Font("Yu Gothic UI", 13.5F, System.Drawing.FontStyle.Bold);
             this.Delimited_Label.ForeColor = System.Drawing.Color.DimGray;
             this.Delimited_Label.Location = new System.Drawing.Point(0, 0);
             this.Delimited_Label.Name = "Delimited_Label";
@@ -627,7 +627,7 @@
             // 
             // Line_Seq_Label
             // 
-            this.Line_Seq_Label.Font = new System.Drawing.Font("Century Gothic", 12.75F, System.Drawing.FontStyle.Bold);
+            this.Line_Seq_Label.Font = new System.Drawing.Font("Yu Gothic UI", 13.5F, System.Drawing.FontStyle.Bold);
             this.Line_Seq_Label.ForeColor = System.Drawing.Color.DimGray;
             this.Line_Seq_Label.Location = new System.Drawing.Point(150, 0);
             this.Line_Seq_Label.Name = "Line_Seq_Label";
@@ -660,7 +660,7 @@
             // About_Label
             // 
             this.About_Label.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.About_Label.Font = new System.Drawing.Font("Century Gothic", 12.75F, System.Drawing.FontStyle.Bold);
+            this.About_Label.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Bold);
             this.About_Label.ForeColor = System.Drawing.Color.DimGray;
             this.About_Label.Location = new System.Drawing.Point(932, 0);
             this.About_Label.Name = "About_Label";
@@ -668,6 +668,7 @@
             this.About_Label.TabIndex = 213;
             this.About_Label.Text = "About";
             this.About_Label.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.About_Label.Visible = false;
             this.About_Label.Click += new System.EventHandler(this.About_label_Click);
             this.About_Label.MouseEnter += new System.EventHandler(this.About_Label_MouseEnter);
             this.About_Label.MouseLeave += new System.EventHandler(this.About_Label_MouseLeave);
